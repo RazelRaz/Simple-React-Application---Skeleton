@@ -1,4 +1,4 @@
-# Simple-React-Application---Skeleton
+# Simple-React-Application-Skeleton
 The application should consist of a single page with a header, a content section, and a footer.
 
 The header displays the title of the application.
